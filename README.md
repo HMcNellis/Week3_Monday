@@ -1,4 +1,4 @@
-# Outline for Monday, September 28th
+# Outline for Monday, September 28th - Hanni
 - Review Wednesday's exercises
 - Functions
 
